@@ -11,6 +11,7 @@ dead = [] #empty list of dead members
 colors = {"Red.png" : " ", "Blue.png" : " ", "Green.png" : " ", "Pink.png" : " ", 
           "Orange.png" : " ", "Yellow.png" : " ", "Black.png" : " ", "White.png" : " ", 
           "Purple.png" : " ", "Brown.png" : " ", "Cyan.png" : " ", "Lime.png" : " "}
+#images outdated with new cosmetic discussion images
 #maps discord usernames to color to see when they die
 
 @client.event
